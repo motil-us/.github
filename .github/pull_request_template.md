@@ -15,7 +15,7 @@ Please delete options that are not relevant.
 
 # Testing Plan
 
-Provide all relavent steps and instructions so we can reproduce the original issue, if necessary, and test the new code.
+Provide all relevant steps and instructions so we can reproduce the original issue, if necessary, and test the new code.
 Also list any relevant details for your test configuration. If there is a lot of code/configuration changes needed in order to test,
 please include a git diff/patch that we can apply to local code.
 
