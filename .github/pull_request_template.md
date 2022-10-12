@@ -34,3 +34,36 @@ Ensure that all of the below is true before creating this PR or requesting a rev
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
+
+
+# App/Functionality Checklist
+All checks ***must*** pass before the PR can be approved and merged. It is the shared responsibility of the PR/code author and the reviewer to ensure that this code does not create any new bugs.
+
+#### Apps
+- [ ] Sign up with Email and password
+- [ ] Sign up with Apple
+- [ ] Sign up with Google
+- [ ] Sign in with email and password
+- [ ] Sign in with Google
+- [ ] Sign in with Apple
+- [ ] Go through onboarding process
+- [ ] Set up Stripe Account
+- [ ] Create a new service
+- [ ] Create a booking
+- [ ] Reset password flow
+- [ ] Send an Invoice
+- [ ] Google Calendar Sync
+
+#### Web
+- [ ] Sign up with Email and password
+- [ ] Sign up with Apple
+- [ ] Sign up with Google
+- [ ] Sign in with email and password
+- [ ] Sign in with Google
+- [ ] Sign in with Apple
+- [ ] Get Subscription
+- [ ] Set up Stripe Account
+- [ ] Create a booking as specialist
+- [ ] Create a booking as customer
+- [ ] Create a new service
+- [ ] Reset password flow
